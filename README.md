@@ -35,6 +35,15 @@ This project implements a **differential-drive mobile robot** capable of navigat
 
 ---
 
+## 🎥 Demo Videos
+
+| 1. Zigzag Path Navigation | 2. Point-to-Point Navigation |
+|:---:|:---:|
+| [![Zigzag Navigation](https://img.youtube.com/vi/bHzK99QXid4/maxresdefault.jpg)](https://www.youtube.com/watch?v=bHzK99QXid4) | [![Point-to-Point Navigation](https://img.youtube.com/vi/6Jtd71CDOAQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Jtd71CDOAQ) |
+| หุ่นยนต์วาดเส้น Zigzag | การนำทางแบบ Point-to-Point |
+
+---
+
 ## ✨ Features
 
 - **UWB Indoor Positioning** — Trilateration-based 2D localization using DW1000 anchors with EMA filtering and spike rejection
